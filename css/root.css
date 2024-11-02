@@ -1,0 +1,15 @@
+
+:root {
+  --mainColor: #72a834;
+  --subColor: #4e7661;
+  --textColor: #00090f;
+  --topHeader: #8cc7a8;
+  --bgHeader: #ffffff;
+  --topHeader2: #b2d18f;
+  --bgFlash: linear-gradient(
+    to right,
+    rgb(140, 199, 168, 0.6),
+    rgb(178, 209, 143, 0.6)
+  );
+  --gutter: 30px;
+}
