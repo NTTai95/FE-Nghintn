@@ -497,7 +497,7 @@ $(window).on('scroll  mousemove touchstart',function(){
 					$alert.removeClass('active');
 				});
 				function createAlert(title, mess, time, type) {
-					var alertTitle = title || '',
+					var alertTitle = title || 'Test',
 						showTime = time || 3000,
 						alertClass = type;
 					$alert.removeClass('alert-success').removeClass('alert-danger').removeClass('alert-warning').removeClass('alert-primary');
