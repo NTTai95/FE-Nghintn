@@ -1,7 +1,6 @@
 var dataPlaceholderText = [
-    "ok",
-    "ok2",
-    "ok3"
+    "vợ anh nè ",
+    "Tài lì "
 ]
 
 var theme = {

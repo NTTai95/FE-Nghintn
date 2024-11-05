@@ -476,8 +476,6 @@ function callbackFuncGroup(sectionName) {
 			});
 		});
 		
-		favoriBean.Wishlist.wishlistProduct();
-		
 		
 		$(document).ready(function () {
 			var modal = $('.quickview-product');

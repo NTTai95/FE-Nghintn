@@ -337,7 +337,7 @@ $(window).on('scroll  mousemove touchstart',function(){
 				sessionStorage.removeItem('search_input');
 				sessionStorage.removeItem('search_collection');
 			}
-			$(window).load(function() {
+			$(window).ready(function() {
 				getSearchStorage('.header_search form');
 				resetSearchStorage();
 			});
